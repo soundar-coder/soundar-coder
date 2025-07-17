@@ -6,7 +6,7 @@ Master of Computer Applications
 
 - 📫 How to reach me :
 - <br/>
-  [ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black">](https://www.hackerrank.com/profile/soundarr588)
+  [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/>](https://www.hackerrank.com/profile/soundarr588)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
