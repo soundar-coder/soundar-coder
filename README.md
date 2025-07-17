@@ -11,7 +11,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/soundar03/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soundarcoder.com)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/soundarr588?theme=light&font=Martel%20Sans)
+![LeetCode Stats](https://leetcard.jacoblin.cool/soundarr588?theme=light&font=Martel%20Sans&ext=heatmap)
 
 
 
