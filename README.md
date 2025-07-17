@@ -17,7 +17,7 @@
 ## Leetcode status:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/soundarr588?theme=light&font=Martel%20Sans&ext=heatmap)
 
-<img width="1000" height="400" alt="ChatGPT Image Jul 17, 2025, 11_34_57 AM" src="https://github.com/user-attachments/assets/fac95844-7685-49b5-89d9-8fae1e7d2428" />
+<img width="1584" height="400" alt="ChatGPT Image Jul 17, 2025, 11_34_57 AM" src="https://github.com/user-attachments/assets/fac95844-7685-49b5-89d9-8fae1e7d2428" />
 
 
 
