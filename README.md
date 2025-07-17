@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Soundar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi there It's Soundarrajan
+Master of Computer Applications
+## I'm currently learning DSA
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soundarr588&label=Profile%20views&color=0e75b6&style=flat" alt="soundarr588" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soundarr588" alt="soundarr588" /></a> </p>
 
-- 📫 How to reach me **soundarr588@gmail.com**
+- 📫 How to reach me :
+- <br/>
+  [ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black">]{https://www.hackerrank.com/profile/soundarr588}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
