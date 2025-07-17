@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0000FF&size=30&center=true&vCenter=true&width=500&lines=I+am+Soundarrajan)
-    ## Master of Computer Applications
-    <h4>I'm currently learning Data Structures and Algorithm</h2> 
-    <h4>DSA Problem Solving Platform Profile : </h2><br/>
+## Master of Computer Applications
+<h4>I'm currently learning Data Structures and Algorithm</h2> 
+<h4>DSA Problem Solving Platform Profile : </h2><br/>
 
   [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>](https://leetcode.com/u/soundarr588/)
   [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/>](https://www.hackerrank.com/profile/soundarr588)
