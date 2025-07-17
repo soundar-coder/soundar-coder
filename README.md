@@ -1,5 +1,13 @@
 ## Hii, I'M SOUNDARRAJAN
-
+<p align="center">
+  <svg width="100%" height="100" viewBox="0 0 1000 100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="blue"
+          font-size="40" font-family="Verdana" >
+      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+      Soundarrajan
+    </text>
+  </svg>
+</p>
 
 ## Master of Computer Applications
 <h4>I'm currently learning Data Structures and Algorithm</h2> 
