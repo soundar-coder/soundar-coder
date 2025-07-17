@@ -1,4 +1,3 @@
-## Hii, I'M SOUNDARRAJAN
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0000FF&size=30&center=true&vCenter=true&width=500&lines=I+am+Soundarrajan)
 ## Master of Computer Applications
 <h4>I'm currently learning Data Structures and Algorithm</h2> 
