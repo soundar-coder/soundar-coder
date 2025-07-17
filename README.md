@@ -1,8 +1,8 @@
 ## Hii, I'M SOUNDARRAJAN
-<img width="1584" height="400" alt="ChatGPT Image Jul 17, 2025, 11_34_57 AM" src="https://github.com/user-attachments/assets/fac95844-7685-49b5-89d9-8fae1e7d2428" />
+
 
 ## Master of Computer Applications
-<h4>I'm currently learning DSA</h2> 
+<h4>I'm currently learning Data Structures and Algorithm</h2> 
 <h4>DSA Problem Solving Platform Profile : </h2><br/>
 
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>](https://leetcode.com/u/soundarr588/)
