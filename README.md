@@ -1,4 +1,5 @@
-## Hi there It's Soundarrajan
+![soundarimg](https://github.com/user-attachments/assets/28cb532b-e9cc-434b-8076-f3609ab25246)
+
 ## Master of Computer Applications
 <h4>I'm currently learning DSA</h2> 
 <h4>DSA Problem Solving Platform Profile : </h2><br/>
